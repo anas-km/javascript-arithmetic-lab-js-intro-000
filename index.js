@@ -43,7 +43,11 @@ function dec(n) {
 
     function makeInt(n) {
 
+<<<<<<< HEAD
       parseInt('0x2328' 10)
+=======
+      parseInt('undefined!', 10)
+>>>>>>> 578d3777573b22ad48376d9b6ff4ff19eb6e0d0d
 
       return n
 
@@ -63,6 +67,7 @@ function preserveDecimal(n){
 
   return n
 }
+<<<<<<< HEAD
 
 function preserveDecimal(n) {
 
@@ -71,3 +76,5 @@ function preserveDecimal(n) {
   return n
 
 }
+=======
+>>>>>>> 578d3777573b22ad48376d9b6ff4ff19eb6e0d0d
